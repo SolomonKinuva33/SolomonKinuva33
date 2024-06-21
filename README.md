@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SolomonKinuva33
-- 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...app development to help in children's ministry at church
-- 💞️ I’m looking to collaborate on ...data science python projects in satelites mgt
+- 👋  I’m solo
+- 👀 love learning interesting things especially emperically based ie. math,science and stuff, philosophy not really my thing but makes you wonder!
+- 🌱 I’m currently learning basics of all about computers? lol
+- 💞️ I’m looking to collaborate on whatchu got?
 - 📫 How to reach me ...
 mkinuva1@gmail.com
 <!---
